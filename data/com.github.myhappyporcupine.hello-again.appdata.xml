@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 My Happy Porcupine <myhappyporcupine@github.com> -->
+<component type="desktop">
+    <id>com.github.myhappyporcupine.hello-again.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Again World</name>
+    <summary>Helloing the world all over again</summary>
+    <description>
+        <p>This is not really my app. I'm just following a tutorial on the elementary OS website.</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-test">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>
